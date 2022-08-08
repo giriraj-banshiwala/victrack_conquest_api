@@ -18,6 +18,8 @@
 	</properties>
 
 	<build>
+	
+	Here is the chane in the main file Change 1
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
@@ -44,7 +46,7 @@
 			<groupId>org.mule.connectors</groupId>
 			<artifactId>mule-sockets-connector</artifactId>
 			<version>1.2.2</version>
-			<classifier>mule-plugitestn</classifier>
+			<classifier>mule-plugin</classifier>
 		</dependency>
 	</dependencies>
 
